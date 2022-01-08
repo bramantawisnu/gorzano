@@ -1,1 +1,3 @@
-Gorzano Created by Bramanta Wisnu
+Gorzano Created by Bramanta
+we will use white navbar code to make white navbar with black text and responsive, add hamburger menu.
+we will use footbar tools with new template from themewagon
